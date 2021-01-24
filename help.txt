@@ -1,0 +1,17 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>liste des fonctionnalités du script<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Il existe 14 fonctionnalités du script :
+
+1. Installation d’openstack (sur Ubuntu ou CentOs)
+2. Installation de Git
+3. Installation de Jenkins
+4. Installer autre paquet
+5. Mettre a jour le système
+6. Afficher liste paquets installés
+7. Supprimer un paquet
+8. Ajouter un utilisateur (possibilité d'ajouter un groupe à cet user)
+9. Ajouter un groupe.
+10. Afficher les groupes d’un utilisateur
+11. Statut d’un service et listing de tous les services
+12. Redemarrer un service
+13. Activer / désactiver un service
+14. Help : liste des fonctionnalités du script
